@@ -3,6 +3,17 @@ __Help Desk Professional, [YouTuber, Commentator](https://www.youtube.com/@rasho
 
 ## 🖥️ Information Technology Projects:
 
+- **Microsoft Azure Cloud Projects** 
+  - [Home Office Solution with Microsoft Azure VPN Gateway](https://github.com/Rashon5/Azure-COVID-VPN-Gateway-Solution)  
+  - [Docker Image Push and Deployment for Containerized Voting Application in Kubernetes Cluster](https://github.com/Rashon5/Azure-Kubernetes-Service-Docker-Deploy)
+  - [Infrastructure Modernization: From On-Prem to Azure using Azure Backup Solution](https://github.com/Rashon5/Azure-Backup-Solution)
+ 
+- **AWS Cloud Projects**
+  - [On-Prem Migration to AWS](https://github.com/Rashon5/AWS-On-Prem-Migration-to-AWS)
+  - [Executive Cost Presentation with AWS](https://github.com/Rashon5/AWS-Executive-Cost-Presentation)
+  - [Deployment of a Scalable Application: The Cloud Bootcamp Conference Raffle](https://github.com/Rashon5/AWS-Cloud-Scalable-Application)
+  - [Automated User Migration and Management of AWS IAM Resources](https://github.com/Rashon5/AWS-IAM-Project)
+  
 - **osTicket (Help Desk Ticketing System)**
   - [osTicket: Installation & Virtual Machine Creation](https://github.com/rashon5/osticket-install)
   - [osTicket: Configuration](https://github.com/rashon5/osticket-config)
