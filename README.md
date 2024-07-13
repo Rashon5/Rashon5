@@ -7,6 +7,8 @@ __Help Desk Professional, [YouTuber, Commentator](https://www.youtube.com/@rasho
   - [Home Office Solution with Microsoft Azure VPN Gateway](https://github.com/Rashon5/Azure-COVID-VPN-Gateway-Solution)  
   - [Docker Image Push and Deployment for Containerized Voting Application in Kubernetes Cluster](https://github.com/Rashon5/Azure-Kubernetes-Service-Docker-Deploy)
   - [Infrastructure Modernization: From On-Prem to Azure using Azure Backup Solution](https://github.com/Rashon5/Azure-Backup-Solution)
+  - [Cloud Integration Mentoring: Deploying PostgreSQL in Microsoft Azure](https://github.com/Rashon5/Azure-Deploying-PostgreSQL-Database)
+  - [Automated Serverless Website Deployment using Azure DevOps Repos & Pipelines (CI/CD) in Multiple Environments](https://github.com/Rashon5/Azure-DevOps-Repos-Pipelines-Automation)
  
 - **AWS Cloud Projects**
   - [On-Prem Migration to AWS](https://github.com/Rashon5/AWS-On-Prem-Migration-to-AWS)
